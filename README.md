@@ -8,7 +8,7 @@ Feel free to connect and let's learn together! 🚀
 
 ## 🤝 Let's Connect
 
-- 📧 Email: [raciod.contact@gmail.com]
+- 📧 Email: [raciod.contact@gmail.com](mailto:raciod.contact@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/raciod/)
 - 🐦 [Twitter](https://twitter.com/Rac_iod)
 
